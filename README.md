@@ -74,7 +74,7 @@ Scores are normalized to 0-100. Accounts are flagged based on weighted patterns:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Mhasnain-cyber/Nexora1.git
+    git clone https://github.com/MuditG-Cyber/Nexora1.git
     cd Nexora1
     ```
 
